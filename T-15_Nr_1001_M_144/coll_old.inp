@@ -1,0 +1,2 @@
+2	integer CollModel (0-None, 1-Effective, 2-Mod.Const, 3-Mod.Func)
+3.0d-3	CRmod - model constant collision rate (this value is used only if CollModel >= 2)
