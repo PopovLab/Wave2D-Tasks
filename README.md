@@ -6,5 +6,5 @@ Wave2D Tasks
 Запуск задачи:
 
 ```
- ./wave2D.bat  -w ..\wave2D-works\FT-2_LH_nphi_-061_Nr_1501_M_180
+ ./wave2D.bat  -w ..\Wave2D-Tasks\FT-2_LH_nphi_-061_Nr_1501_M_180
 ```
